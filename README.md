@@ -1,2 +1,4 @@
 # Online_Car_Rental_System_using_HTMLCSS
 Online car rental system is developed using html,css,javascript .the goal of this project is to replace the renting of cars in manual procedure to online mode.
+Customers will be able to reserve their vehicles from anywhere in the world due to the Car Rental System.Consumers provide information to this application by filling in their personal information.When a consumer creates an account on the website, he or she can reserve a car. The proposed system is an online system that is fully integrated. It effectively and efficiently automates manual procedures. Customers are aided by this automated method, which allows them to fill in the
+specifics according to their needs. It contains information on the sort of car they want to hire as well as the location. The goal of this system is to create a website where customers can book their automobiles and request services from anywhere in the world.
